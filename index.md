@@ -10,7 +10,7 @@ My github page is https://github.com/Stephanie-GZ
 
 * Lab 4
 
-  Lab 4, part 2 was my first favortie because it was a game, the Hi-Lo Guessing Game. I found it very interesting since I enjoy games. Although it's a guessing game and the players can continuously guess incorrectly, the code created has a purpose for that. In doing so, I learned a greater understanding of if and else statements.
+  Lab 4, part 2 was my first favorite because it was a game, the Hi-Lo Guessing Game. I found it very interesting since I enjoy games. Although it's a guessing game and the players can continuously guess incorrectly, the code created has a purpose for that. In doing so, I learned a greater understanding of if and else statements.
 
 
 * Lab 6
